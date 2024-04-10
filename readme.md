@@ -1,1 +1,1 @@
-Each project is built based on simple render engine https://github.com/mortennobel/SimpleRenderEngineProject.git
+Course project built based on simple render engine https://github.com/mortennobel/SimpleRenderEngineProject.git

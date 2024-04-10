@@ -1,0 +1,75 @@
+{"frames": [
+
+{
+	"filename": "game_over.png",
+	"frame": {"x":0,"y":0,"w":256,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":67},
+	"sourceSize": {"w":256,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "get_ready.png",
+	"frame": {"x":0,"y":67,"w":250,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":78},
+	"sourceSize": {"w":250,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "human1.png",
+	"frame": {"x":0,"y":145,"w":10,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":13},
+	"sourceSize": {"w":10,"h":13},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "human2.png",
+	"frame": {"x":10,"y":145,"w":9,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":14},
+	"sourceSize": {"w":9,"h":14},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "human3.png",
+	"frame": {"x":19,"y":145,"w":5,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":11},
+	"sourceSize": {"w":5,"h":11},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "taxi_left.png",
+	"frame": {"x":24,"y":145,"w":49,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":28},
+	"sourceSize": {"w":49,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "taxi_right.png",
+	"frame": {"x":73,"y":145,"w":49,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":28},
+	"sourceSize": {"w":49,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "space_taxi.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":173},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:49365436329fae565ff9e66077639f0f:059583d93bc1be6d19d9dfacab4e4653:b78e15d62729994f6ee19fce34c9ff47$"
+}
+}
